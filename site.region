@@ -11,6 +11,7 @@
 	{.if template.mobileStylesEnabled}{.or}<!-- Mobile Styles Disabled -->{.end}
 	<body class="{squarespace.page-classes}" id="{squarespace.page-id}">
 
+
 	<div id="site">
 		<div id="canvas">
 
